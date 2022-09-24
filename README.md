@@ -13,7 +13,7 @@ SmartInternz Profile - https://g.dev/krsapna14
 
 Google Developer Profile-  https://g.dev/krsapna14 
 
-Demo video link - https://drive.google.com/drive/u/0/my-drive
+Demo video link -https://drive.google.com/file/d/17zUHYLID6R5OMjMJ5eO-KT_Srs1uGWTX/view?usp=sharing
 
 In this Internship i have created a gorcery application. Which will help the users to note down all of their grocery things which they are forget sometime to buy. With assistance of this app the users will not forget to buy their things which they sometimes forget.
 
